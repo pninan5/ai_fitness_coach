@@ -21,7 +21,7 @@ A free, open-source fitness plan generator built with Streamlit and powered by L
 3. Paste your OpenRouter API key in the app to generate your custom fitness plan.
 
 ## 🔍 LLM Used
-- Default: `mistral/mistral-7b-instruct`
+- Default: `Llama by Meta`
 - You can modify the model name in `llm_api.py` if needed.
 
 ## 🛠️ Future Improvements
